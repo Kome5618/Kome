@@ -1,4 +1,4 @@
-# mama slide ai 🦸‍♀️  
+# ままのスライド画像生成プロンプトai 🦸‍♀️  
 Busy moms' SNS slide generator
 
 忙しいママのSNS投稿をサポートする  
